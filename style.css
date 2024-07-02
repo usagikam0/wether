@@ -1,0 +1,30 @@
+
+@charset "utf-8";
+
+body {
+    text-align: center;
+    min-height:100vh;
+    margin:0;
+  }
+  table {
+    border-collapse: collapse;
+    margin:0 auto;
+  }
+  table,tr,td{
+    border:2px solid 
+  #1e2023;
+    padding:1vw 5vw;
+    text-align: center;
+  }
+
+  th{
+    border:2px solid 
+    #1e2023;
+    padding: 1vw 4vw!important;
+    text-align: center;
+  }
+
+
+  body {
+    font-size: 3vw!important;
+    }
